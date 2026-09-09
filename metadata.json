@@ -1,0 +1,6 @@
+{
+  "name": "MultimodalText",
+  "description": "AI-Powered Tribal-Language Learning Platform for Smart India Hackathon",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
